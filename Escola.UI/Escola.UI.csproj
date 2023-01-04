@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70ED5FE2-3823-47C5-A42A-78E1C80595C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DESKTOP.UI</RootNamespace>
+    <AssemblyName>DESKTOP.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainADM.Designer.cs">
+      <DependentUpon>MainADM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainUser.Designer.cs">
+      <DependentUpon>MainUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarProfessor.Designer.cs">
+      <DependentUpon>CadastrarProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarTurma_Manha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarTurma_Manha.Designer.cs">
+      <DependentUpon>CadastrarTurma_Manha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarTurma_Noite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarTurma_Noite.Designer.cs">
+      <DependentUpon>CadastrarTurma_Noite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarTurma_Tarde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarTurma_Tarde.Designer.cs">
+      <DependentUpon>CadastrarTurma_Tarde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarCurso.Designer.cs">
+      <DependentUpon>CadastrarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarDiciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarDiciplina.Designer.cs">
+      <DependentUpon>CadastrarDiciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarAluno.Designer.cs">
+      <DependentUpon>CadastrarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaProfessor.Designer.cs">
+      <DependentUpon>ConsultaProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarAluno.Designer.cs">
+      <DependentUpon>ConsultarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarCurso.Designer.cs">
+      <DependentUpon>ConsultarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarDisciplina.Designer.cs">
+      <DependentUpon>ConsultarDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaTurma.Designer.cs">
+      <DependentUpon>ConsultaTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarAluno.Designer.cs">
+      <DependentUpon>EditarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarCurso.Designer.cs">
+      <DependentUpon>EditarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarDiciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarDiciplina.Designer.cs">
+      <DependentUpon>EditarDiciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarProfessor.Designer.cs">
+      <DependentUpon>EditarProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainADM.resx">
+      <DependentUpon>MainADM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainUser.resx">
+      <DependentUpon>MainUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarProfessor.resx">
+      <DependentUpon>CadastrarProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarTurma_Manha.resx">
+      <DependentUpon>CadastrarTurma_Manha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarTurma_Noite.resx">
+      <DependentUpon>CadastrarTurma_Noite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarTurma_Tarde.resx">
+      <DependentUpon>CadastrarTurma_Tarde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarCurso.resx">
+      <DependentUpon>CadastrarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarDiciplina.resx">
+      <DependentUpon>CadastrarDiciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarAluno.resx">
+      <DependentUpon>CadastrarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaProfessor.resx">
+      <DependentUpon>ConsultaProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarAluno.resx">
+      <DependentUpon>ConsultarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarCurso.resx">
+      <DependentUpon>ConsultarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarDisciplina.resx">
+      <DependentUpon>ConsultarDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaTurma.resx">
+      <DependentUpon>ConsultaTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarAluno.resx">
+      <DependentUpon>EditarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarCurso.resx">
+      <DependentUpon>EditarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarDiciplina.resx">
+      <DependentUpon>EditarDiciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarProfessor.resx">
+      <DependentUpon>EditarProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DESKTOP.BLL\Escola.BLL.csproj">
+      <Project>{e4a6f28c-3746-4407-a245-ce3e131c16ef}</Project>
+      <Name>Escola.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DESKTOP.DTO\Escola.DTO.csproj">
+      <Project>{b7215187-66c8-4b22-ad40-f9b5adae38b8}</Project>
+      <Name>Escola.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagens\arquivo.png" />
+    <Content Include="Imagens\cadastro %281%29.png" />
+    <Content Include="Imagens\cadastro.png" />
+    <Content Include="Imagens\editar-video.png" />
+    <Content Include="Imagens\pesquisa.png" />
+    <Content Include="Imagens\revisao-do-cliente.png" />
+    <Content Include="Imagens\sair.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
