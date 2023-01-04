@@ -7,8 +7,8 @@
     <ProjectGuid>{B7215187-66C8-4B22-AD40-F9B5ADAE38B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DESKTOP.DTO</RootNamespace>
-    <AssemblyName>DESKTOP.DTO</AssemblyName>
+    <RootNamespace>Escola.DTO</RootNamespace>
+    <AssemblyName>Escola.DTO</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
