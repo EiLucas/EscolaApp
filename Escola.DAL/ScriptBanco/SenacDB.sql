@@ -1,4 +1,4 @@
-﻿USE SenacDB
+﻿USE LucasAlves
 
 CREATE TABLE Alunos
 (

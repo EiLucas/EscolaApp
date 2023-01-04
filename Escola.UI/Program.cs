@@ -16,7 +16,7 @@ namespace Escola.UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CadastrarAluno());
+            Application.Run(new Login());
         }
     }
 }
