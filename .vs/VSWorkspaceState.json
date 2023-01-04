@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Escola.BLL",
+    "\\Escola.UI"
   ],
   "SelectedNode": "\\Escola.sln",
   "PreviewInSolutionExplorer": false
