@@ -60,8 +60,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ScriptBanco\Script.sql" />
-    <Content Include="ScriptBanco\SenacDB.sql" />
+    <Content Include="ScriptBanco\ScriptDB.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
