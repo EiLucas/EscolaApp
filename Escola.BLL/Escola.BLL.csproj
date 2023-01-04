@@ -53,11 +53,11 @@
     <Compile Include="TurmaTardeBLL.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DESKTOP.DAL\Escola.DAL.csproj">
+    <ProjectReference Include="..\Escola.DAL\Escola.DAL.csproj">
       <Project>{a5ab6fdd-7a53-4d15-96ea-d4c399835446}</Project>
       <Name>Escola.DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DESKTOP.DTO\Escola.DTO.csproj">
+    <ProjectReference Include="..\Escola.DTO\Escola.DTO.csproj">
       <Project>{b7215187-66c8-4b22-ad40-f9b5adae38b8}</Project>
       <Name>Escola.DTO</Name>
     </ProjectReference>

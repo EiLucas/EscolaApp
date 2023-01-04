@@ -1,0 +1,9 @@
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\bin\Debug\DESKTOP.DAL.dll
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\bin\Debug\DESKTOP.DAL.pdb
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\bin\Debug\DESKTOP.DTO.dll
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\bin\Debug\DESKTOP.DTO.pdb
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.csproj.AssemblyReference.cache
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.csproj.CopyComplete
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\DESKTOP.DAL.dll
+C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\DESKTOP.DAL.pdb

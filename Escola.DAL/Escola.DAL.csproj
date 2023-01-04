@@ -54,7 +54,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\DESKTOP.DTO\Escola.DTO.csproj">
+    <ProjectReference Include="..\Escola.DTO\Escola.DTO.csproj">
       <Project>{b7215187-66c8-4b22-ad40-f9b5adae38b8}</Project>
       <Name>Escola.DTO</Name>
     </ProjectReference>
