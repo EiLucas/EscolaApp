@@ -9,3 +9,15 @@ C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.BLL\bin\
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.DTO.pdb
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.dll
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.BLL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.BLL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.DAL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.DTO.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.DAL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.DAL.dll.config
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\bin\Debug\Escola.DTO.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.csproj.AssemblyReference.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.csproj.CoreCompileInputs.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.csproj.CopyComplete
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.BLL\obj\Debug\Escola.BLL.pdb

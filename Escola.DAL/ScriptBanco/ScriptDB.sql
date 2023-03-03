@@ -1,4 +1,4 @@
-﻿USE LucasAlves
+﻿USE Escola
 
 CREATE TABLE Alunos
 (

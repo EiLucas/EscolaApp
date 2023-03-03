@@ -34,3 +34,40 @@ C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.UI\obj\D
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.csproj.CopyComplete
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.exe
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.UI.exe.config
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.UI.exe
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.UI.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.BLL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.DTO.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.DAL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.BLL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.DTO.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.DAL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\bin\Debug\Escola.DAL.dll.config
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.csproj.AssemblyReference.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.MainADM.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.MainUser.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarProfessor.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarTurma_Manha.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarTurma_Noite.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarTurma_Tarde.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarCurso.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarDiciplina.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.CadastrarAluno.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.ConsultaProfessor.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.ConsultarAluno.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.ConsultarCurso.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.ConsultarDisciplina.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.ConsultaTurma.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.EditarAluno.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.EditarCurso.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.EditarDiciplina.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.EditarProfessor.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.Login.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.Properties.Resources.resources
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.csproj.GenerateResource.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.csproj.CoreCompileInputs.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.csproj.CopyComplete
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.exe
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.UI\obj\Debug\Escola.UI.pdb

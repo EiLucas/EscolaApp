@@ -4,3 +4,9 @@ C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DTO\bin\
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DTO\bin\Debug\Escola.DTO.pdb
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DTO\obj\Debug\Escola.DTO.dll
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DTO\obj\Debug\Escola.DTO.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DTO\bin\Debug\Escola.DTO.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DTO\bin\Debug\Escola.DTO.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DTO\obj\Debug\Escola.DTO.csproj.AssemblyReference.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DTO\obj\Debug\Escola.DTO.csproj.CoreCompileInputs.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DTO\obj\Debug\Escola.DTO.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DTO\obj\Debug\Escola.DTO.pdb

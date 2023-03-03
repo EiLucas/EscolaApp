@@ -19,7 +19,7 @@ namespace Escola.DAL
         {
             try
             {
-                conn = new SqlConnection(@"Data Source=LucasAlves;Initial Catalog=LucasAlves;Integrated Security=True");
+                conn = new SqlConnection(@"Data Source=DESKTOP-PD7JE7A;Initial Catalog=Escola;Integrated Security=True");
                 conn.Open();
             }
             catch (Exception ex)

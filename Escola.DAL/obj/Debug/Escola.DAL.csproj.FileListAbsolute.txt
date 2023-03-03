@@ -7,3 +7,13 @@ C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\bin\
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\bin\Debug\Escola.DTO.pdb
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.dll
 C:\Users\EiLuc\OneDrive - SENAC - SP\Documentos\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\bin\Debug\Escola.DAL.dll.config
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\bin\Debug\Escola.DAL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\bin\Debug\Escola.DAL.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\bin\Debug\Escola.DTO.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\bin\Debug\Escola.DTO.pdb
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.csproj.AssemblyReference.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.csproj.CopyComplete
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.dll
+C:\Users\EiLucas\Documents\GitHub\EscolaApp\Escola.DAL\obj\Debug\Escola.DAL.pdb
